@@ -1,5 +1,5 @@
 <?php
 
-echo "fuck <strong>the world</strong>";
+echo "foda-se <strong>mundo</strong>";
 
 ?>
